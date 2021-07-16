@@ -1,0 +1,15 @@
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.exe
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.deps.json
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.runtimeconfig.json
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.runtimeconfig.dev.json
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.dll
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\CaesarCypher.pdb
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.csprojAssemblyReference.cache
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.AssemblyInfoInputs.cache
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.AssemblyInfo.cs
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.dll
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.pdb
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.genruntimeconfig.cache
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.csproj.CoreCompileInputs.cache
+C:\Projects\CaesarCypher\CaesarCypher\CaesarCypher\obj\Debug\netcoreapp3.1\CaesarCypher.csproj.CopyComplete
